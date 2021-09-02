@@ -1,1 +1,1 @@
-# Yufan-lab.github.io
+# Yufanlab.github.io
