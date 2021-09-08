@@ -8,8 +8,6 @@ My email address is yufan@udel.edu.
 
 Link: https://yufan-lab.github.io/Yufanlab.github.io/
 
-GitHub: [github]
-(https://github.com/Yufan-lab/Yufanlab.github.io/)
+- GitHub: [github](https://github.com/Yufan-lab/Yufanlab.github.io/)
 
-Repo: [Source Code]
-(https://github.com/Yufan-lab/Yufanlab.github.io/edit/main/README.md)
+- Repo: [Source Code](https://github.com/Yufan-lab/Yufanlab.github.io/edit/main/README.md)
