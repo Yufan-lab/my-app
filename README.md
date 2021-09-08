@@ -1,5 +1,5 @@
-Change Log
-
+[Change Log](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/required%20sections/change%20log.md)
+--
 
 
 
