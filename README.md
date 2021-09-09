@@ -8,11 +8,11 @@ Portfolio
 ==
 * [HTML](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/myfirstwebpage.html)
 * * Source Code
-* * Study Link
+* * [Study Link](https://htmldog.com/guides/html/)
 
 * [CSS](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/yufan'scsscode.html)
 * * Source Code
-* * Study Link
+* * [Study Link](https://htmldog.com/guides/css/)
 
 
 
