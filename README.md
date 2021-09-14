@@ -28,4 +28,4 @@ Info
 
 * GitHub: [github](https://github.com/Yufan-lab/Yufanlab.github.io/)
 
-* Repo: [Source Code](https://github.com/Yufan-lab/Yufanlab.github.io/edit/main/README.md)
+* Repo: [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io)
