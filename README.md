@@ -10,7 +10,7 @@ Portfolio
 * * Source Code
 * * [Study Link](https://htmldog.com/guides/html/)
 
-* [CSS](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/yufan'scsscode.html)
+* [CSS](https://yufan-lab.github.io/yufan'scsscode.html)
 * * Source Code
 * * [Study Link](https://htmldog.com/guides/css/)
 
