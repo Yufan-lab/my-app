@@ -18,14 +18,18 @@ Portfolio
 
 Info :bowtie: :bowtie:
 ==
-* My name is Jiang Yufan and I am from China.
+* Name: Jiang Yufan
+* Region: China:cn:
 
-* I am a junior computer secience student but not good at programming.
+* Status: Junior
+* Major: Computer Science(BS)
 
-* My UD ID is 702451740
+* UD ID: 702451740
 
-* My email address is yufan@udel.edu.
-
+* email address: yufan@udel.edu.
+* (Not good at programming):scream::scream:
 * GitHub: [github](https://github.com/Yufan-lab/Yufanlab.github.io/)
 
 * Repo: [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io)
+
+Yufan is working hard on construction below:truck::truck:
