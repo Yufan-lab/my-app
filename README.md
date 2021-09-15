@@ -16,7 +16,7 @@ Portfolio
 
 
 
-Info
+Info :bowtie: :bowtie:
 ==
 * My name is Jiang Yufan and I am from China.
 
