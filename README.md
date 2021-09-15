@@ -19,7 +19,7 @@ Portfolio
 Info :bowtie: :bowtie:
 ==
 * Name: Jiang Yufan
-* Region: China:cn:
+* Region: China
 
 * Status: Junior
 * Major: Computer Science(BS)
