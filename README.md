@@ -9,11 +9,16 @@ Portfolio
 * [HTML](https://yufan-lab.github.io/yufan'scsscode.html)
 * * Source Code
 * * [Study Link](https://htmldog.com/guides/html/)
-
+* * *
 * [CSS](https://yufan-lab.github.io/yufan'scsscode.html)
 * * Source Code
 * * [Study Link](https://htmldog.com/guides/css/)
-
+* * *
+* VScode
+* * Outcome
+* * * Installing NodeJS
+* * * Installing Visual Studio Code
+* * * Hello, World in TypeScript
 
 
 Info :bowtie: :bowtie:
