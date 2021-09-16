@@ -33,6 +33,8 @@ Portfolio :v: :sparkles:
 * React
 
 * * *
+* Git
+* * *
 
 
 Info :bowtie: :bowtie:
