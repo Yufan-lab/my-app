@@ -19,7 +19,7 @@ Portfolio
 * * * Installing NodeJS
 * * * Installing Visual Studio Code
 * * * Hello, World in TypeScript
-
+* * * [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
 
 Info :bowtie: :bowtie:
 ==
