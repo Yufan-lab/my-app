@@ -6,7 +6,7 @@ Pages:
 
 Portfolio
 ==
-* [HTML](https:file:///C:/Users/yfjia/Desktop/html/yufan's%20first%20webpage.html)
+* [HTML](file:///C:/Users/yfjia/Desktop/html/yufan's%20first%20webpage.html)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/myfirstwebpage.html)
 * * [Study Link](https://htmldog.com/guides/html/)
 * * *
