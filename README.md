@@ -20,6 +20,12 @@ Portfolio
 * * * Installing Visual Studio Code
 * * * Hello, World in TypeScript
 * * * [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
+* * *
+* JavaScript
+* [Source Code]
+* [Study Link](https://htmldog.com/guides/javascript/)
+* * *
+
 
 Info :bowtie: :bowtie:
 ==
