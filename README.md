@@ -4,7 +4,7 @@ Pages:
 * [TODO](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/required%20sections/to-do%20list.md)
 * [Tutorial](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/Tutorial/tutorial.md)
 
-Portfolio
+Portfolio :v: :sparkles:
 ==
 * [HTML](https://yufan-lab.github.io/myfirstwebpage.html)
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/myfirstwebpage.html)
