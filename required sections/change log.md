@@ -1,11 +1,12 @@
 Change Log
 ==
+* * *
 First week of the class
 --
 * creat github respotority
 * creat protfolio
 * add personal information. add canvas link
-
+* * *
 
 
 Second week of the class
@@ -15,7 +16,7 @@ Second week of the class
 * organize portfolio
 * finished my first webpage by html
 * get done the css code 
-
+* * *
 Third week of the class
 --
 * Update Change Log
