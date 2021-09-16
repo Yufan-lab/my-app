@@ -10,6 +10,7 @@ Milestone 2
 ==
 * Master and Add JavaScript
 * Master and Add TypeScript
+* Trying Git
 * Update Change Log
 * Update To-do List
 * Organize Portfolio
