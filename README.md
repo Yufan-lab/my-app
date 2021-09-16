@@ -1,9 +1,8 @@
-[Change Log](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/required%20sections/change%20log.md)
---
-[TODO](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/required%20sections/to-do%20list.md)
---
-[Tutorial](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/Tutorial/tutorial.md)
---
+Pages:
+==
+* [Change Log](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/required%20sections/change%20log.md)
+* [TODO](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/required%20sections/to-do%20list.md)
+* [Tutorial](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/Tutorial/tutorial.md)
 Portfolio
 ==
 * [HTML](https://yufan-lab.github.io/yufan'scsscode.html)
