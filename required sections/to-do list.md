@@ -4,3 +4,8 @@ Milestone 1
 * get familiar with visual studio code
 * * getting started with TypeScript tutorial
 * * getting started with React tutorial
+* * *
+
+Milestone 2
+==
+* 
