@@ -14,7 +14,7 @@ Portfolio
 * * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/yufan'scsscode.html)
 * * [Study Link](https://htmldog.com/guides/css/)
 * * *
-* VScode
+* [VScode](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/Vsscode/Vsscode.png)
 * * Outcome
 * * * Installing NodeJS
 * * * Installing Visual Studio Code
