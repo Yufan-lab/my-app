@@ -8,4 +8,9 @@ Milestone 1
 
 Milestone 2
 ==
-* 
+* Master and Add JavaScript
+* Master and Add TypeScript
+* Update Change Log
+* Update To-do List
+* Organize Portfolio
+* * *
