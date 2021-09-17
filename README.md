@@ -22,8 +22,8 @@ Portfolio :v: :sparkles:
 * * * [Study Link](https://neu-se.github.io/CS4530-CS5500-Spring-2021/tutorials/week1-getting-started)
 * * *
 * [JavaScript](yufan-lab.github.io/JavaScript/JavaScript.html)
-* [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/JavaScript/JavaScript.html)
-* [Study Link](https://htmldog.com/guides/javascript/)
+* * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/JavaScript/JavaScript.html)
+* * [Study Link](https://htmldog.com/guides/javascript/)
 * * *
 
 * TypeScript
