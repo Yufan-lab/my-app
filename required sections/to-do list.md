@@ -8,10 +8,11 @@ Milestone 1
 
 Milestone 2
 ==
-* Master and Add JavaScript
-* Master and Add TypeScript
-* Trying Git
-* Update Change Log
-* Update To-do List
-* Organize Portfolio
+* Master and Add JavaScript. Do the code part and practice coding.
+* Master and Add TypeScript. Finish coding.
+* Trying Git and learining logic in Git.
+* Start learning React.
+* Update Change Log.
+* Update To-do List.
+* Organize Portfolio.
 * * *
