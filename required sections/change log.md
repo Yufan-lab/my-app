@@ -21,6 +21,8 @@ Third week of the class
 --
 * Update Change Log
 * Update To-do List
-* Adding TypeScript Section
-* Adding React Section
+* Adding TypeScript Section and finished coding.
+* Adding React Section and start learning React.
+* Finishing JavaScript and did a simple code about math
+* Adding git section and start learing git 
 * Orgnize Portfolio
