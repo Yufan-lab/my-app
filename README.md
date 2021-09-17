@@ -30,10 +30,12 @@ Portfolio :v: :sparkles:
 * [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
 * [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * * *
-* React
+* Git
+* * [Source Code]()
+* * [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
 * * *
-* Git
+* React
 * * *
 
 
