@@ -12,6 +12,7 @@ Milestone 2
 * Master and Add TypeScript. Finish coding.
 * Trying Git and learining logic in Git.
 * Start learning React.
+* Keep practice Html and CSS.
 * Update Change Log.
 * Update To-do List.
 * Organize Portfolio.
