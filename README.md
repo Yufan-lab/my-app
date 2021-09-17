@@ -26,9 +26,9 @@ Portfolio :v: :sparkles:
 * * [Study Link](https://htmldog.com/guides/javascript/)
 * * *
 
-* TypeScript
-* Source Code
-* [Study Link]()
+* [TypeScript](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
+* [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
+* [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * * *
 * React
 
