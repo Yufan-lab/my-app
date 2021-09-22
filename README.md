@@ -26,14 +26,21 @@ Portfolio :v: :sparkles:
 * * [Study Link](https://htmldog.com/guides/javascript/)
 * * *
 
-* TypeScript
-* Source Code
-* [Study Link]()
+* [TypeScript](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
+* [Source Code](https://github.com/Yufan-lab/Yufan-lab.github.io/blob/main/TypeScript/TypeScript.js)
+* [Study Link](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 * * *
+<<<<<<< HEAD
 * React
 * * tic-tac-toe 
-* * *
+=======
 * Git
+* * [Source Code]()
+* * [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
+
+>>>>>>> 54414de884ed546c75cc66530fccb0c9679524ff
+* * *
+* React
 * * *
 
 
