@@ -31,7 +31,7 @@ Portfolio :v: :sparkles:
 * [Study Link]()
 * * *
 * React
-
+* * tic-tac-toe 
 * * *
 * Git
 * * *
