@@ -32,13 +32,13 @@ Portfolio :v: :sparkles:
 * * *
 <<<<<<< HEAD
 * React
-* * tic-tac-toe 
+* * tic-tacs-toe 
 =======
 * Git
 * * [Source Code]()
 * * [Study Link](https://www.atlassian.com/git/tutorials/git-bash)
 
->>>>>>> 54414de884ed546c75cc66530fccb0c9679524ff
+
 * * *
 * React
 * * *
